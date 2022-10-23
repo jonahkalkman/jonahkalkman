@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jonahkalkman
 - 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning three.js
-- 💞️ I’m looking to collaborate on Released, your music release radar.
 - 📫 How to reach me: jonah@jkagency.nl
 
 <!---
