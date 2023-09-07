@@ -1,4 +1,4 @@
-## Hi, I am Jonah
+## Hi! I'm Jonah
 I am a Front-end Developer based in Rotterdam, Netherlands. Building websites, webshops and webapplications using React and Vue.js. Also building apps using React Native.
 
 <!---
