@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @jonahkalkman
-- 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning three.js
+## Hi, I am Jonah
 
 <!---
 jonahkalkman/jonahkalkman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
