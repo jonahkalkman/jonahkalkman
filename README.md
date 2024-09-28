@@ -1,6 +1,6 @@
 ## Hi! I'm Jonah
 
-Currently working on a self-checkout kiosk webapplication in Next.js with Tailwind and Firebase. Also updating my portfolio with Next.js and Tailwind. In my public repo's you can find projects with React, React Native, Vue, PHP (WordPress), Haskell and Python.
+Currently working with Next.js, Tailwind and TypeScript for webdevelopment projects.
 
 <!---
 jonahkalkman/jonahkalkman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
