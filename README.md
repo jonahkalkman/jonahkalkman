@@ -1,4 +1,4 @@
-## Hi! I'm Jonah
+## Jonah Kalkman
 
 Currently working with Next.js, Tailwind and TypeScript for webdevelopment projects.
 
